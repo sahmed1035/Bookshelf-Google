@@ -1,0 +1,13 @@
+.navbar {
+  background-color: rgb(43, 1, 43);
+}
+
+nav.navbar {
+  margin-bottom: 0;
+  
+}
+
+.nav-item {
+  float: left;
+  padding: 0%;
+}
