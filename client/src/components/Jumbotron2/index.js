@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Jumbotron() {
+function Jumbotron2() {
   return (
     <div className="jumbotron text-center">
       <h1>Bookshelf: Google Book Search</h1>
@@ -13,4 +13,4 @@ function Jumbotron() {
   );
 }
 
-export default Jumbotron;
+export default Jumbotron2;
